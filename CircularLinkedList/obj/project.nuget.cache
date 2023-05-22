@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yQL5Ssdl4a0yW2TMEaQpBNco8orxHMKm+FyQG2bnnoieEsBreASweeNgn7oHCxCmEiTuK6TbYds15Da5XhYLZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kliny\\OneDrive\\Документы\\Политех\\ISE2017-2021\\Ise41\\ГосыПрактика\\aisd\\CircularLinkedList\\CircularLinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kliny\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
