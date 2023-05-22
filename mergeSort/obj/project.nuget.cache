@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ng2bR8zSQ17InQ52Sg3mWFDQVwAnqV9UDeh6EkIK2Z+1f0ooWaDew/KaibK9NsVc/b4FlcpZGr3RZCDmFstFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kliny\\OneDrive\\Документы\\Политех\\ISE2017-2021\\Ise41\\ГосыПрактика\\aisd\\mergeSort\\mergeSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kliny\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
